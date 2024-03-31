@@ -6,7 +6,7 @@ We are fans of the band [King Gizzard and the Lizard Wizard](https://kinggizzard
 
 The current KGLW.net site is "Phase 2" run and hosted via [Songfish](https://songfishapp.com).
 
-This GitHub org contains the "Phase 1" site, as well as the code for [KGLW.today](https://kglw.today), a [Motor Spirit costume package generator](https://github.com/kglw-dot-net/motor-spirit-costumes), and [a plugin](https://github.com/kglw-dot-net/discourse-plugin-gizzard-setlist) used in [the KGLW.net Forum](https://forum.kglw.net).
+This GitHub org contains the "Phase 1" site, as well as the code for [KGLW.today](https://kglw.today), a [Motor Spirit costume package generator](https://github.com/kglw-dot-net/motor-spirit-costumes), and [a plugin](https://github.com/kglw-dot-net/discourse-gizzard-setlist) used in [the KGLW.net Forum](https://forum.kglw.net).
 
 
 
